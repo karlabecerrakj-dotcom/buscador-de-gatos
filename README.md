@@ -9,9 +9,9 @@ Una aplicación web interactiva desarrollada para buscar y filtrar información 
 ## Tecnologías Utilizadas
 
 El proyecto está construido completamente con tecnologías estándar de la web, sin necesidad de frameworks pesados:
-* **HTML5:** Estructura semántica de la página web.
-* **CSS3:** Diseño responsivo, estilos visuales y maquetación moderna.
-* **JavaScript (Vanilla JS):** Lógica de programación, manipulación del DOM y gestión de eventos de búsqueda.
+* **HTML:** Estructura semántica de la página web.
+* **CSS:** Diseño responsivo, estilos visuales y maquetación moderna.
+* **JavaScript:** Lógica de programación, manipulación del DOM y gestión de eventos de búsqueda.
 * **JSON (`gatos.json`):** Base de datos local estructurada en formato JSON para almacenar la información de las razas de gatos.
 
 ---
