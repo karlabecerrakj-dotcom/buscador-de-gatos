@@ -2,7 +2,7 @@
 
 Una aplicación web interactiva desarrollada para buscar y filtrar información sobre diferentes razas de gatos de forma dinámica. Este proyecto fue creado como práctica de desarrollo web frontend utilizando tecnologías nativas.
 
-🔗 **[Visita la aplicación en vivo aquí](https://karlabecerrakj-dotcom.github.io/buscador-de-gatos/)**
+🔗 **link: https://karlabecerrakj-dotcom.github.io/buscador-de-gatos/**
 
 ---
 
