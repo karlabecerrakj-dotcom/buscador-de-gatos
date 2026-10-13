@@ -5,7 +5,7 @@
     "raza": "Siamés",
     "edad": "2 años",
     "personalidad": "Juguetón y curioso",
-    "imagen": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=500"
+    "imagen": "https://images.unsplash.com/photo-1568152950566-c1bf43f4ab28?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "raza": "Persa",
     "edad": "3 años",
     "personalidad": "Tranquila y dormilona",
-    "imagen": "https://images.unsplash.com/photo-1573865526739-10659fec78a5?w=500"
+    "imagen": "https://images.unsplash.com/photo-1622584985171-35cd07f0253e?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "raza": "Atigrado",
     "edad": "1 año",
     "personalidad": "Muy activo y cariñoso",
-    "imagen": "https://images.unsplash.com/photo-1533738363-b7f9aef128ce?w=500"
+    "imagen": "https://images.unsplash.com/photo-1589872267076-a0859175685b?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
   },
   {
     "id": 4,
@@ -29,6 +29,6 @@
     "raza": "Maine Coon",
     "edad": "4 años",
     "personalidad": "Independiente y elegante",
-    "imagen": "https://images.unsplash.com/photo-1561948955-570b270e7c36?w=500"
+    "imagen": "https://images.unsplash.com/photo-1543055484-ac8fe612bf31?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
   }
 ]
